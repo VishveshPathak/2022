@@ -1,2 +1,2 @@
-# 2022
-logics of various problems solved on leetcode
+# Leetcode
+Solution repository, accepted/rejected denotes whether it passed all testcases or failed
